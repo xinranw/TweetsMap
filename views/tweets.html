@@ -91,7 +91,7 @@
     // var projection = d3.geo.albersUsa();
     var projection = d3.geo.mercator();
 
-    d3.json("http://localhost:9000/tweets/all", function (error, data) {
+    d3.json("./all", function (error, data) {
       var overlay = new google.maps.OverlayView();
       var layer;
 

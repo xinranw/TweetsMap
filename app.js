@@ -16,11 +16,11 @@ app.engine('html', require('ejs').renderFile);
 app.set('view engine', 'html');
 app.set('views', __dirname + '/views');
 
-app.get('/tweets/map', function (req, res) {
+app.get('/tweets/map', function (req, res, next) {
   res.render('tweets', { title: 'Tweets of #universalorlando'});
 });
 
-app.get('/tweets/locations', function(req, res){
+app.get('/tweets/locations', function(req, res, next){
   tweets.find({'location' : {'$exists' : true}}, {'location' : 1, '_id' : 0}).toArray(function(err, data){
     if (err) throw err;
 
@@ -30,7 +30,7 @@ app.get('/tweets/locations', function(req, res){
   });
 })
 
-app.get('/tweets/all', function(req, res){
+app.get('/tweets/all', function(req, res, next){
   tweets.find().toArray(function(err, data){
     if (err) throw err;
 
