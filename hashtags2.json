@@ -1,0 +1,4085 @@
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 14:22:03 +0000 2015",
+      "id": 585809834915864600,
+      "id_str": "585809834915864577",
+      "text": "RT @SurfnSunshine: Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1004601186,
+        "id_str": "1004601186",
+        "name": "Jessica Urgelles",
+        "screen_name": "asouthernmother",
+        "location": "My Old Kentucky Home ",
+        "profile_location": null,
+        "description": "A Southern Mother. Child of God. Writer. Reporter. Bluegrass Belle. Sweet Tea Drinker. Proud Appalachian. Former Coal Miner's Daughter. Member of the #BBN.",
+        "url": "http://t.co/slSebTZR4Z",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/slSebTZR4Z",
+                "expanded_url": "http://www.asouthernmother.com",
+                "display_url": "asouthernmother.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3293,
+        "friends_count": 2755,
+        "listed_count": 109,
+        "created_at": "Tue Dec 11 18:32:00 +0000 2012",
+        "favourites_count": 2010,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6704,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577634707128500225/sPxQxzF2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577634707128500225/sPxQxzF2_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1004601186/1425664086",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Apr 06 20:08:06 +0000 2015",
+        "id": 585172145120116700,
+        "id_str": "585172145120116736",
+        "text": "Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co/yFgzUINctn",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 459161511,
+          "id_str": "459161511",
+          "name": "Jeana",
+          "screen_name": "SurfnSunshine",
+          "location": "Redondo Beach, CA ",
+          "profile_location": null,
+          "description": "#Travel Blogger. LA #FamilyTravel & International Travel writer at http://t.co/oeVOnk2oUI. Mom & #SocialGood advocate enjoys photography, food, cars & tech",
+          "url": "http://t.co/JozlQPa239",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JozlQPa239",
+                  "expanded_url": "http://www.surfandsunshine.com",
+                  "display_url": "surfandsunshine.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/oeVOnk2oUI",
+                  "expanded_url": "http://Examiner.com",
+                  "display_url": "Examiner.com",
+                  "indices": [
+                    67,
+                    89
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 53972,
+          "friends_count": 39367,
+          "listed_count": 808,
+          "created_at": "Mon Jan 09 10:37:26 +0000 2012",
+          "favourites_count": 676,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 32683,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "92DBE0",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/459161511/1413158530",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 73,
+        "favorite_count": 16,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "UniversalOrlando",
+              "indices": [
+                22,
+                39
+              ]
+            },
+            {
+              "text": "familytravel",
+              "indices": [
+                66,
+                79
+              ]
+            },
+            {
+              "text": "ttot",
+              "indices": [
+                80,
+                85
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "universal_orl",
+              "name": "universal studios",
+              "id": 1885126897,
+              "id_str": "1885126897",
+              "indices": [
+                51,
+                65
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/GSwcfx4U1w",
+              "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+              "display_url": "surfandsunshine.com/pro-tips-for-u…",
+              "indices": [
+                86,
+                108
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 585172144327303200,
+              "id_str": "585172144327303168",
+              "indices": [
+                109,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "url": "http://t.co/yFgzUINctn",
+              "display_url": "pic.twitter.com/yFgzUINctn",
+              "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 254,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 449,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 562,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 73,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UniversalOrlando",
+            "indices": [
+              41,
+              58
+            ]
+          },
+          {
+            "text": "familytravel",
+            "indices": [
+              85,
+              98
+            ]
+          },
+          {
+            "text": "ttot",
+            "indices": [
+              99,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SurfnSunshine",
+            "name": "Jeana",
+            "id": 459161511,
+            "id_str": "459161511",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "universal_orl",
+            "name": "universal studios",
+            "id": 1885126897,
+            "id_str": "1885126897",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/GSwcfx4U1w",
+            "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+            "display_url": "surfandsunshine.com/pro-tips-for-u…",
+            "indices": [
+              105,
+              127
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 585172144327303200,
+            "id_str": "585172144327303168",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "url": "http://t.co/yFgzUINctn",
+            "display_url": "pic.twitter.com/yFgzUINctn",
+            "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 449,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 562,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 585172145120116700,
+            "source_status_id_str": "585172145120116736",
+            "source_user_id": 459161511,
+            "source_user_id_str": "459161511"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 14:11:23 +0000 2015",
+      "id": 585807154076090400,
+      "id_str": "585807154076090370",
+      "text": "RT @floridalove: https://t.co/qHxAVyunKm\nHere are some of the cars from @FastFurious  @UniversalORL  \n#Orlando #universalorlando #cars #Fur…",
+      "source": "<a href=\"http://socialmediaintegrator.net\" rel=\"nofollow\">SocialMediaIntegrator</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 822234342,
+        "id_str": "822234342",
+        "name": "Car Dude",
+        "screen_name": "Car__Dude",
+        "location": "Phoenix",
+        "profile_location": null,
+        "description": "Cars, transportation, trucks, and all things with a motor.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3222,
+        "friends_count": 111,
+        "listed_count": 902,
+        "created_at": "Thu Sep 13 21:50:37 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 103532,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "050B1C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675615491/bc41994501cb9c666d1efa5803224fb4.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675615491/bc41994501cb9c666d1efa5803224fb4.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2606793511/car_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2606793511/car_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Wed Apr 08 14:10:06 +0000 2015",
+        "id": 585806831156592600,
+        "id_str": "585806831156592640",
+        "text": "https://t.co/qHxAVyunKm\nHere are some of the cars from @FastFurious  @UniversalORL  \n#Orlando #universalorlando #cars #Furious7",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 97036285,
+          "id_str": "97036285",
+          "name": "Lisa Mills",
+          "screen_name": "floridalove",
+          "location": "Florida",
+          "profile_location": null,
+          "description": "So much to do, so little time, making the best of it every day.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 191,
+          "friends_count": 478,
+          "listed_count": 3,
+          "created_at": "Tue Dec 15 18:48:16 +0000 2009",
+          "favourites_count": 4750,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4782,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/582227480/100_6963_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582227480/100_6963_normal.jpg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Orlando",
+              "indices": [
+                85,
+                93
+              ]
+            },
+            {
+              "text": "universalorlando",
+              "indices": [
+                94,
+                111
+              ]
+            },
+            {
+              "text": "cars",
+              "indices": [
+                112,
+                117
+              ]
+            },
+            {
+              "text": "Furious7",
+              "indices": [
+                118,
+                127
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FastFurious",
+              "name": "#Furious7",
+              "id": 223622368,
+              "id_str": "223622368",
+              "indices": [
+                55,
+                67
+              ]
+            },
+            {
+              "screen_name": "UniversalORL",
+              "name": "Universal Orlando",
+              "id": 125988399,
+              "id_str": "125988399",
+              "indices": [
+                69,
+                82
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/qHxAVyunKm",
+              "expanded_url": "https://www.flickr.com/photos/130296717@N03/",
+              "display_url": "flickr.com/photos/1302967…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Orlando",
+            "indices": [
+              102,
+              110
+            ]
+          },
+          {
+            "text": "universalorlando",
+            "indices": [
+              111,
+              128
+            ]
+          },
+          {
+            "text": "cars",
+            "indices": [
+              129,
+              134
+            ]
+          },
+          {
+            "text": "Furious7",
+            "indices": [
+              135,
+              140
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "floridalove",
+            "name": "Lisa Mills",
+            "id": 97036285,
+            "id_str": "97036285",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "FastFurious",
+            "name": "#Furious7",
+            "id": 223622368,
+            "id_str": "223622368",
+            "indices": [
+              72,
+              84
+            ]
+          },
+          {
+            "screen_name": "UniversalORL",
+            "name": "Universal Orlando",
+            "id": 125988399,
+            "id_str": "125988399",
+            "indices": [
+              86,
+              99
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qHxAVyunKm",
+            "expanded_url": "https://www.flickr.com/photos/130296717@N03/",
+            "display_url": "flickr.com/photos/1302967…",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 14:10:06 +0000 2015",
+      "id": 585806831156592600,
+      "id_str": "585806831156592640",
+      "text": "https://t.co/qHxAVyunKm\nHere are some of the cars from @FastFurious  @UniversalORL  \n#Orlando #universalorlando #cars #Furious7",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 97036285,
+        "id_str": "97036285",
+        "name": "Lisa Mills",
+        "screen_name": "floridalove",
+        "location": "Florida",
+        "profile_location": null,
+        "description": "So much to do, so little time, making the best of it every day.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 191,
+        "friends_count": 478,
+        "listed_count": 3,
+        "created_at": "Tue Dec 15 18:48:16 +0000 2009",
+        "favourites_count": 4750,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4782,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/582227480/100_6963_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/582227480/100_6963_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Orlando",
+            "indices": [
+              85,
+              93
+            ]
+          },
+          {
+            "text": "universalorlando",
+            "indices": [
+              94,
+              111
+            ]
+          },
+          {
+            "text": "cars",
+            "indices": [
+              112,
+              117
+            ]
+          },
+          {
+            "text": "Furious7",
+            "indices": [
+              118,
+              127
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FastFurious",
+            "name": "#Furious7",
+            "id": 223622368,
+            "id_str": "223622368",
+            "indices": [
+              55,
+              67
+            ]
+          },
+          {
+            "screen_name": "UniversalORL",
+            "name": "Universal Orlando",
+            "id": 125988399,
+            "id_str": "125988399",
+            "indices": [
+              69,
+              82
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qHxAVyunKm",
+            "expanded_url": "https://www.flickr.com/photos/130296717@N03/",
+            "display_url": "flickr.com/photos/1302967…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 14:06:53 +0000 2015",
+      "id": 585806018065465300,
+      "id_str": "585806018065465347",
+      "text": "RT @SurfnSunshine: Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2450810454,
+        "id_str": "2450810454",
+        "name": "C.K. Clark ",
+        "screen_name": "Mrscpkc",
+        "location": "",
+        "profile_location": null,
+        "description": "Cultivating the happiness habit... one day at a time. @carinkilbyclark",
+        "url": "http://t.co/i2htmEWwNM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/i2htmEWwNM",
+                "expanded_url": "http://carinkilbyclark.com",
+                "display_url": "carinkilbyclark.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 7,
+        "listed_count": 12,
+        "created_at": "Fri Apr 18 04:18:08 +0000 2014",
+        "favourites_count": 5,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 410,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/583728385190334466/YFyrSrV2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/583728385190334466/YFyrSrV2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2450810454/1428006649",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Apr 06 20:08:06 +0000 2015",
+        "id": 585172145120116700,
+        "id_str": "585172145120116736",
+        "text": "Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co/yFgzUINctn",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 459161511,
+          "id_str": "459161511",
+          "name": "Jeana",
+          "screen_name": "SurfnSunshine",
+          "location": "Redondo Beach, CA ",
+          "profile_location": null,
+          "description": "#Travel Blogger. LA #FamilyTravel & International Travel writer at http://t.co/oeVOnk2oUI. Mom & #SocialGood advocate enjoys photography, food, cars & tech",
+          "url": "http://t.co/JozlQPa239",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JozlQPa239",
+                  "expanded_url": "http://www.surfandsunshine.com",
+                  "display_url": "surfandsunshine.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/oeVOnk2oUI",
+                  "expanded_url": "http://Examiner.com",
+                  "display_url": "Examiner.com",
+                  "indices": [
+                    67,
+                    89
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 53972,
+          "friends_count": 39367,
+          "listed_count": 808,
+          "created_at": "Mon Jan 09 10:37:26 +0000 2012",
+          "favourites_count": 676,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 32683,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "92DBE0",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/459161511/1413158530",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 73,
+        "favorite_count": 16,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "UniversalOrlando",
+              "indices": [
+                22,
+                39
+              ]
+            },
+            {
+              "text": "familytravel",
+              "indices": [
+                66,
+                79
+              ]
+            },
+            {
+              "text": "ttot",
+              "indices": [
+                80,
+                85
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "universal_orl",
+              "name": "universal studios",
+              "id": 1885126897,
+              "id_str": "1885126897",
+              "indices": [
+                51,
+                65
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/GSwcfx4U1w",
+              "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+              "display_url": "surfandsunshine.com/pro-tips-for-u…",
+              "indices": [
+                86,
+                108
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 585172144327303200,
+              "id_str": "585172144327303168",
+              "indices": [
+                109,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "url": "http://t.co/yFgzUINctn",
+              "display_url": "pic.twitter.com/yFgzUINctn",
+              "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 254,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 449,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 562,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 73,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UniversalOrlando",
+            "indices": [
+              41,
+              58
+            ]
+          },
+          {
+            "text": "familytravel",
+            "indices": [
+              85,
+              98
+            ]
+          },
+          {
+            "text": "ttot",
+            "indices": [
+              99,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SurfnSunshine",
+            "name": "Jeana",
+            "id": 459161511,
+            "id_str": "459161511",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "universal_orl",
+            "name": "universal studios",
+            "id": 1885126897,
+            "id_str": "1885126897",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/GSwcfx4U1w",
+            "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+            "display_url": "surfandsunshine.com/pro-tips-for-u…",
+            "indices": [
+              105,
+              127
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 585172144327303200,
+            "id_str": "585172144327303168",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "url": "http://t.co/yFgzUINctn",
+            "display_url": "pic.twitter.com/yFgzUINctn",
+            "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 449,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 562,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 585172145120116700,
+            "source_status_id_str": "585172145120116736",
+            "source_user_id": 459161511,
+            "source_user_id_str": "459161511"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 14:01:55 +0000 2015",
+      "id": 585804771220521000,
+      "id_str": "585804771220520960",
+      "text": "RT @SurfnSunshine: Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15362154,
+        "id_str": "15362154",
+        "name": "Lisa Collins",
+        "screen_name": "amomontheside",
+        "location": "Iowa",
+        "profile_location": null,
+        "description": "Lover of #Travel & #Family, Mother of #Twins Blogger at http://t.co/4MPLT8D0sZ and http://t.co/WjvKT1zyPp #InsideOutEvent #MonkeyKingdom #Waltagram",
+        "url": "http://t.co/r2afwR3AJm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/r2afwR3AJm",
+                "expanded_url": "http://www.momontheside.com",
+                "display_url": "momontheside.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/4MPLT8D0sZ",
+                "expanded_url": "http://MomOnTheSide.com",
+                "display_url": "MomOnTheSide.com",
+                "indices": [
+                  56,
+                  78
+                ]
+              },
+              {
+                "url": "http://t.co/WjvKT1zyPp",
+                "expanded_url": "http://MidwestMammas.com",
+                "display_url": "MidwestMammas.com",
+                "indices": [
+                  83,
+                  105
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 21824,
+        "friends_count": 16955,
+        "listed_count": 412,
+        "created_at": "Wed Jul 09 04:16:37 +0000 2008",
+        "favourites_count": 2625,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 75889,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/526518837479370753/hPOzhX8d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/526518837479370753/hPOzhX8d_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15362154/1419953826",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Apr 06 20:08:06 +0000 2015",
+        "id": 585172145120116700,
+        "id_str": "585172145120116736",
+        "text": "Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co/yFgzUINctn",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 459161511,
+          "id_str": "459161511",
+          "name": "Jeana",
+          "screen_name": "SurfnSunshine",
+          "location": "Redondo Beach, CA ",
+          "profile_location": null,
+          "description": "#Travel Blogger. LA #FamilyTravel & International Travel writer at http://t.co/oeVOnk2oUI. Mom & #SocialGood advocate enjoys photography, food, cars & tech",
+          "url": "http://t.co/JozlQPa239",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JozlQPa239",
+                  "expanded_url": "http://www.surfandsunshine.com",
+                  "display_url": "surfandsunshine.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/oeVOnk2oUI",
+                  "expanded_url": "http://Examiner.com",
+                  "display_url": "Examiner.com",
+                  "indices": [
+                    67,
+                    89
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 53972,
+          "friends_count": 39367,
+          "listed_count": 808,
+          "created_at": "Mon Jan 09 10:37:26 +0000 2012",
+          "favourites_count": 676,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 32683,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "92DBE0",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/459161511/1413158530",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 73,
+        "favorite_count": 16,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "UniversalOrlando",
+              "indices": [
+                22,
+                39
+              ]
+            },
+            {
+              "text": "familytravel",
+              "indices": [
+                66,
+                79
+              ]
+            },
+            {
+              "text": "ttot",
+              "indices": [
+                80,
+                85
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "universal_orl",
+              "name": "universal studios",
+              "id": 1885126897,
+              "id_str": "1885126897",
+              "indices": [
+                51,
+                65
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/GSwcfx4U1w",
+              "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+              "display_url": "surfandsunshine.com/pro-tips-for-u…",
+              "indices": [
+                86,
+                108
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 585172144327303200,
+              "id_str": "585172144327303168",
+              "indices": [
+                109,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "url": "http://t.co/yFgzUINctn",
+              "display_url": "pic.twitter.com/yFgzUINctn",
+              "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 254,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 449,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 562,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 73,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UniversalOrlando",
+            "indices": [
+              41,
+              58
+            ]
+          },
+          {
+            "text": "familytravel",
+            "indices": [
+              85,
+              98
+            ]
+          },
+          {
+            "text": "ttot",
+            "indices": [
+              99,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SurfnSunshine",
+            "name": "Jeana",
+            "id": 459161511,
+            "id_str": "459161511",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "universal_orl",
+            "name": "universal studios",
+            "id": 1885126897,
+            "id_str": "1885126897",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/GSwcfx4U1w",
+            "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+            "display_url": "surfandsunshine.com/pro-tips-for-u…",
+            "indices": [
+              105,
+              127
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 585172144327303200,
+            "id_str": "585172144327303168",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "url": "http://t.co/yFgzUINctn",
+            "display_url": "pic.twitter.com/yFgzUINctn",
+            "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 449,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 562,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 585172145120116700,
+            "source_status_id_str": "585172145120116736",
+            "source_user_id": 459161511,
+            "source_user_id_str": "459161511"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 13:54:53 +0000 2015",
+      "id": 585802999382974500,
+      "id_str": "585802999382974464",
+      "text": "#springbreak2k15 #universalorlando #greatness w #thechamp @UniversalORL http://t.co/LQniuWpZYu",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 476375483,
+        "id_str": "476375483",
+        "name": "keith crerar",
+        "screen_name": "krcrerar",
+        "location": "",
+        "profile_location": null,
+        "description": "#thechamp & #princesskai #TML, Fighting Irish, #coltstrong",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 125,
+        "listed_count": 0,
+        "created_at": "Sat Jan 28 02:23:06 +0000 2012",
+        "favourites_count": 25,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 329,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/491153302776586240/z_3YbWn2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/491153302776586240/z_3YbWn2_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/476375483/1405935048",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "springbreak2k15",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "text": "universalorlando",
+            "indices": [
+              17,
+              34
+            ]
+          },
+          {
+            "text": "greatness",
+            "indices": [
+              35,
+              45
+            ]
+          },
+          {
+            "text": "thechamp",
+            "indices": [
+              48,
+              57
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "UniversalORL",
+            "name": "Universal Orlando",
+            "id": 125988399,
+            "id_str": "125988399",
+            "indices": [
+              58,
+              71
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 585802992131027000,
+            "id_str": "585802992131026944",
+            "indices": [
+              72,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/CCEwt7ZUsAAM5Do.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CCEwt7ZUsAAM5Do.jpg",
+            "url": "http://t.co/LQniuWpZYu",
+            "display_url": "pic.twitter.com/LQniuWpZYu",
+            "expanded_url": "http://twitter.com/krcrerar/status/585802999382974464/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 13:40:36 +0000 2015",
+      "id": 585799404109619200,
+      "id_str": "585799404109619200",
+      "text": "RT @SurfnSunshine: Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1885208474,
+        "id_str": "1885208474",
+        "name": "Renee@GFF",
+        "screen_name": "GettingFitFab",
+        "location": "Long Island",
+        "profile_location": null,
+        "description": "Personal Twitter ~@Reneexxlynn • Twenty-Something Living in NY • Blogger • In Love • Addicted to Sephora & Coach • Taking life's random moments 3 at a time •",
+        "url": "http://t.co/GAGyvp10EN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/GAGyvp10EN",
+                "expanded_url": "http://www.gettingfitfab.com",
+                "display_url": "gettingfitfab.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 878,
+        "friends_count": 1437,
+        "listed_count": 21,
+        "created_at": "Fri Sep 20 03:19:38 +0000 2013",
+        "favourites_count": 239,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1803,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000674214355/990f628ec2e8c003c2d660fd9fdef0cd_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000674214355/990f628ec2e8c003c2d660fd9fdef0cd_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885208474/1379647455",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Apr 06 20:08:06 +0000 2015",
+        "id": 585172145120116700,
+        "id_str": "585172145120116736",
+        "text": "Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co/yFgzUINctn",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 459161511,
+          "id_str": "459161511",
+          "name": "Jeana",
+          "screen_name": "SurfnSunshine",
+          "location": "Redondo Beach, CA ",
+          "profile_location": null,
+          "description": "#Travel Blogger. LA #FamilyTravel & International Travel writer at http://t.co/oeVOnk2oUI. Mom & #SocialGood advocate enjoys photography, food, cars & tech",
+          "url": "http://t.co/JozlQPa239",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JozlQPa239",
+                  "expanded_url": "http://www.surfandsunshine.com",
+                  "display_url": "surfandsunshine.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/oeVOnk2oUI",
+                  "expanded_url": "http://Examiner.com",
+                  "display_url": "Examiner.com",
+                  "indices": [
+                    67,
+                    89
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 53972,
+          "friends_count": 39367,
+          "listed_count": 808,
+          "created_at": "Mon Jan 09 10:37:26 +0000 2012",
+          "favourites_count": 676,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 32683,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "92DBE0",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/459161511/1413158530",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 73,
+        "favorite_count": 16,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "UniversalOrlando",
+              "indices": [
+                22,
+                39
+              ]
+            },
+            {
+              "text": "familytravel",
+              "indices": [
+                66,
+                79
+              ]
+            },
+            {
+              "text": "ttot",
+              "indices": [
+                80,
+                85
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "universal_orl",
+              "name": "universal studios",
+              "id": 1885126897,
+              "id_str": "1885126897",
+              "indices": [
+                51,
+                65
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/GSwcfx4U1w",
+              "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+              "display_url": "surfandsunshine.com/pro-tips-for-u…",
+              "indices": [
+                86,
+                108
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 585172144327303200,
+              "id_str": "585172144327303168",
+              "indices": [
+                109,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "url": "http://t.co/yFgzUINctn",
+              "display_url": "pic.twitter.com/yFgzUINctn",
+              "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 254,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 449,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 562,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 73,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UniversalOrlando",
+            "indices": [
+              41,
+              58
+            ]
+          },
+          {
+            "text": "familytravel",
+            "indices": [
+              85,
+              98
+            ]
+          },
+          {
+            "text": "ttot",
+            "indices": [
+              99,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SurfnSunshine",
+            "name": "Jeana",
+            "id": 459161511,
+            "id_str": "459161511",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "universal_orl",
+            "name": "universal studios",
+            "id": 1885126897,
+            "id_str": "1885126897",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/GSwcfx4U1w",
+            "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+            "display_url": "surfandsunshine.com/pro-tips-for-u…",
+            "indices": [
+              105,
+              127
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 585172144327303200,
+            "id_str": "585172144327303168",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "url": "http://t.co/yFgzUINctn",
+            "display_url": "pic.twitter.com/yFgzUINctn",
+            "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 449,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 562,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 585172145120116700,
+            "source_status_id_str": "585172145120116736",
+            "source_user_id": 459161511,
+            "source_user_id_str": "459161511"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 13:37:19 +0000 2015",
+      "id": 585798579807105000,
+      "id_str": "585798579807105025",
+      "text": "RT @SurfnSunshine: Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16852176,
+        "id_str": "16852176",
+        "name": "Everything Pretty ",
+        "screen_name": "kotibeth",
+        "location": "Ohio",
+        "profile_location": null,
+        "description": "Autism super mom. Fluent in sarcasm & snark. I make pretty things. Wordsmith. Blogger.  See my work here -  http://t.co/ckkiMKTjwv",
+        "url": "http://t.co/zVlu2ADd4w",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/zVlu2ADd4w",
+                "expanded_url": "http://www.yourbeautyblog.com",
+                "display_url": "yourbeautyblog.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/ckkiMKTjwv",
+                "expanded_url": "http://bit.ly/1iF4g0V",
+                "display_url": "bit.ly/1iF4g0V",
+                "indices": [
+                  108,
+                  130
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7183,
+        "friends_count": 4717,
+        "listed_count": 207,
+        "created_at": "Sun Oct 19 15:31:13 +0000 2008",
+        "favourites_count": 274,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20025,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2390408898/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2390408898/image_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16852176/1399046298",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Apr 06 20:08:06 +0000 2015",
+        "id": 585172145120116700,
+        "id_str": "585172145120116736",
+        "text": "Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co/yFgzUINctn",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 459161511,
+          "id_str": "459161511",
+          "name": "Jeana",
+          "screen_name": "SurfnSunshine",
+          "location": "Redondo Beach, CA ",
+          "profile_location": null,
+          "description": "#Travel Blogger. LA #FamilyTravel & International Travel writer at http://t.co/oeVOnk2oUI. Mom & #SocialGood advocate enjoys photography, food, cars & tech",
+          "url": "http://t.co/JozlQPa239",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JozlQPa239",
+                  "expanded_url": "http://www.surfandsunshine.com",
+                  "display_url": "surfandsunshine.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/oeVOnk2oUI",
+                  "expanded_url": "http://Examiner.com",
+                  "display_url": "Examiner.com",
+                  "indices": [
+                    67,
+                    89
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 53972,
+          "friends_count": 39367,
+          "listed_count": 808,
+          "created_at": "Mon Jan 09 10:37:26 +0000 2012",
+          "favourites_count": 676,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 32683,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "92DBE0",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/459161511/1413158530",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 73,
+        "favorite_count": 16,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "UniversalOrlando",
+              "indices": [
+                22,
+                39
+              ]
+            },
+            {
+              "text": "familytravel",
+              "indices": [
+                66,
+                79
+              ]
+            },
+            {
+              "text": "ttot",
+              "indices": [
+                80,
+                85
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "universal_orl",
+              "name": "universal studios",
+              "id": 1885126897,
+              "id_str": "1885126897",
+              "indices": [
+                51,
+                65
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/GSwcfx4U1w",
+              "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+              "display_url": "surfandsunshine.com/pro-tips-for-u…",
+              "indices": [
+                86,
+                108
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 585172144327303200,
+              "id_str": "585172144327303168",
+              "indices": [
+                109,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "url": "http://t.co/yFgzUINctn",
+              "display_url": "pic.twitter.com/yFgzUINctn",
+              "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 254,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 449,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 562,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 73,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UniversalOrlando",
+            "indices": [
+              41,
+              58
+            ]
+          },
+          {
+            "text": "familytravel",
+            "indices": [
+              85,
+              98
+            ]
+          },
+          {
+            "text": "ttot",
+            "indices": [
+              99,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SurfnSunshine",
+            "name": "Jeana",
+            "id": 459161511,
+            "id_str": "459161511",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "universal_orl",
+            "name": "universal studios",
+            "id": 1885126897,
+            "id_str": "1885126897",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/GSwcfx4U1w",
+            "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+            "display_url": "surfandsunshine.com/pro-tips-for-u…",
+            "indices": [
+              105,
+              127
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 585172144327303200,
+            "id_str": "585172144327303168",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "url": "http://t.co/yFgzUINctn",
+            "display_url": "pic.twitter.com/yFgzUINctn",
+            "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 449,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 562,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 585172145120116700,
+            "source_status_id_str": "585172145120116736",
+            "source_user_id": 459161511,
+            "source_user_id_str": "459161511"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 13:35:48 +0000 2015",
+      "id": 585798198586974200,
+      "id_str": "585798198586974208",
+      "text": "Good morning! Day 6 in my work week. #MegaCon on Friday and #universalorlando on Saturday to see The Band Perry perform! #country #nerdgirl",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 843976722,
+        "id_str": "843976722",
+        "name": "p•rose",
+        "screen_name": "NYBelle24",
+        "location": "",
+        "profile_location": null,
+        "description": "||keep moving forward||",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 26,
+        "friends_count": 70,
+        "listed_count": 2,
+        "created_at": "Mon Sep 24 17:37:29 +0000 2012",
+        "favourites_count": 808,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 338,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577528580168687617/bgH5N2wb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577528580168687617/bgH5N2wb_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/843976722/1427138149",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          28.268002,
+          -81.6131769
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -81.6131769,
+          28.268002
+        ]
+      },
+      "place": {
+        "id": "4ec01c9dbc693497",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json",
+        "place_type": "admin",
+        "name": "Florida",
+        "full_name": "Florida, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -87.634643,
+                24.396308
+              ],
+              [
+                -79.974307,
+                24.396308
+              ],
+              [
+                -79.974307,
+                31.001056
+              ],
+              [
+                -87.634643,
+                31.001056
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "MegaCon",
+            "indices": [
+              37,
+              45
+            ]
+          },
+          {
+            "text": "universalorlando",
+            "indices": [
+              60,
+              77
+            ]
+          },
+          {
+            "text": "country",
+            "indices": [
+              121,
+              129
+            ]
+          },
+          {
+            "text": "nerdgirl",
+            "indices": [
+              130,
+              139
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 13:33:28 +0000 2015",
+      "id": 585797608309796900,
+      "id_str": "585797608309796864",
+      "text": "RT @SurfnSunshine: Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21055680,
+        "id_str": "21055680",
+        "name": "Ashleigh Walls",
+        "screen_name": "artsavesyou",
+        "location": "Rochester,NY",
+        "profile_location": null,
+        "description": "Upstate NY #coffee addict Mom2Boys Toddler w/SPD & cute 1 yr old @comodynesusa social manager #WomensLives livingoffloveandcoffee@gmail.com #SITSBLOGGING",
+        "url": "http://t.co/j3OQNaB6Tp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/j3OQNaB6Tp",
+                "expanded_url": "http://livingoffloveandcoffee.com/",
+                "display_url": "livingoffloveandcoffee.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7762,
+        "friends_count": 4870,
+        "listed_count": 204,
+        "created_at": "Tue Feb 17 02:19:36 +0000 2009",
+        "favourites_count": 1660,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24508,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000040150935/b8e2619a9b7f2e08ecfa7fbfbeb335ba.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000040150935/b8e2619a9b7f2e08ecfa7fbfbeb335ba.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/579165625278296064/c5lizVI__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/579165625278296064/c5lizVI__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21055680/1423178891",
+        "profile_link_color": "CE7834",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Apr 06 20:08:06 +0000 2015",
+        "id": 585172145120116700,
+        "id_str": "585172145120116736",
+        "text": "Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co/yFgzUINctn",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 459161511,
+          "id_str": "459161511",
+          "name": "Jeana",
+          "screen_name": "SurfnSunshine",
+          "location": "Redondo Beach, CA ",
+          "profile_location": null,
+          "description": "#Travel Blogger. LA #FamilyTravel & International Travel writer at http://t.co/oeVOnk2oUI. Mom & #SocialGood advocate enjoys photography, food, cars & tech",
+          "url": "http://t.co/JozlQPa239",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JozlQPa239",
+                  "expanded_url": "http://www.surfandsunshine.com",
+                  "display_url": "surfandsunshine.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/oeVOnk2oUI",
+                  "expanded_url": "http://Examiner.com",
+                  "display_url": "Examiner.com",
+                  "indices": [
+                    67,
+                    89
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 53972,
+          "friends_count": 39367,
+          "listed_count": 808,
+          "created_at": "Mon Jan 09 10:37:26 +0000 2012",
+          "favourites_count": 676,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 32683,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "92DBE0",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/459161511/1413158530",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 73,
+        "favorite_count": 16,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "UniversalOrlando",
+              "indices": [
+                22,
+                39
+              ]
+            },
+            {
+              "text": "familytravel",
+              "indices": [
+                66,
+                79
+              ]
+            },
+            {
+              "text": "ttot",
+              "indices": [
+                80,
+                85
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "universal_orl",
+              "name": "universal studios",
+              "id": 1885126897,
+              "id_str": "1885126897",
+              "indices": [
+                51,
+                65
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/GSwcfx4U1w",
+              "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+              "display_url": "surfandsunshine.com/pro-tips-for-u…",
+              "indices": [
+                86,
+                108
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 585172144327303200,
+              "id_str": "585172144327303168",
+              "indices": [
+                109,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "url": "http://t.co/yFgzUINctn",
+              "display_url": "pic.twitter.com/yFgzUINctn",
+              "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 254,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 449,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 562,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 73,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UniversalOrlando",
+            "indices": [
+              41,
+              58
+            ]
+          },
+          {
+            "text": "familytravel",
+            "indices": [
+              85,
+              98
+            ]
+          },
+          {
+            "text": "ttot",
+            "indices": [
+              99,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SurfnSunshine",
+            "name": "Jeana",
+            "id": 459161511,
+            "id_str": "459161511",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "universal_orl",
+            "name": "universal studios",
+            "id": 1885126897,
+            "id_str": "1885126897",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/GSwcfx4U1w",
+            "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+            "display_url": "surfandsunshine.com/pro-tips-for-u…",
+            "indices": [
+              105,
+              127
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 585172144327303200,
+            "id_str": "585172144327303168",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "url": "http://t.co/yFgzUINctn",
+            "display_url": "pic.twitter.com/yFgzUINctn",
+            "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 449,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 562,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 585172145120116700,
+            "source_status_id_str": "585172145120116736",
+            "source_user_id": 459161511,
+            "source_user_id_str": "459161511"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 13:31:26 +0000 2015",
+      "id": 585797097091366900,
+      "id_str": "585797097091366912",
+      "text": "I've been home a week and I'm craving butterbeer anything!!! Planning my next trip!!  #universalorlando http://t.co/Wd1AYYuoT5",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 361198278,
+        "id_str": "361198278",
+        "name": "Leslie Cox Lee",
+        "screen_name": "LeslieCLee",
+        "location": "Kingsport,TN",
+        "profile_location": null,
+        "description": "God first in all things. Stay at home wife & mother of 2 amazing teens, bookworm & martial arts student.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 893,
+        "friends_count": 1882,
+        "listed_count": 13,
+        "created_at": "Wed Aug 24 12:10:45 +0000 2011",
+        "favourites_count": 297,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 683,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000837050579/1a2ae7c8b053f65c2dfa12369e19ad30_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000837050579/1a2ae7c8b053f65c2dfa12369e19ad30_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/361198278/1411387832",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "universalorlando",
+            "indices": [
+              86,
+              103
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 585797096252518400,
+            "id_str": "585797096252518400",
+            "indices": [
+              104,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/CCErWviWMAAC0Wy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CCErWviWMAAC0Wy.jpg",
+            "url": "http://t.co/Wd1AYYuoT5",
+            "display_url": "pic.twitter.com/Wd1AYYuoT5",
+            "expanded_url": "http://twitter.com/LeslieCLee/status/585797097091366912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 13:29:01 +0000 2015",
+      "id": 585796491417100300,
+      "id_str": "585796491417100288",
+      "text": "RT @SurfnSunshine: Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2625410617,
+        "id_str": "2625410617",
+        "name": "Michelle Varga",
+        "screen_name": "dustbunniesblog",
+        "location": "Toronto, Ontario, Canada",
+        "profile_location": null,
+        "description": "I'm a first time mom and lifestyle blogger with a passion for cooking and crafting - I enjoy sharing my recipes, reviews and write on various topics.",
+        "url": "http://t.co/O7yPgr02t5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/O7yPgr02t5",
+                "expanded_url": "http://www.dishesanddustbunnies.com",
+                "display_url": "dishesanddustbunnies.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1399,
+        "friends_count": 1357,
+        "listed_count": 70,
+        "created_at": "Sat Jul 12 13:48:53 +0000 2014",
+        "favourites_count": 14906,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3027,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/559901715302862849/dRly_U4x_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/559901715302862849/dRly_U4x_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2625410617/1422332157",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Apr 06 20:08:06 +0000 2015",
+        "id": 585172145120116700,
+        "id_str": "585172145120116736",
+        "text": "Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co/yFgzUINctn",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 459161511,
+          "id_str": "459161511",
+          "name": "Jeana",
+          "screen_name": "SurfnSunshine",
+          "location": "Redondo Beach, CA ",
+          "profile_location": null,
+          "description": "#Travel Blogger. LA #FamilyTravel & International Travel writer at http://t.co/oeVOnk2oUI. Mom & #SocialGood advocate enjoys photography, food, cars & tech",
+          "url": "http://t.co/JozlQPa239",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JozlQPa239",
+                  "expanded_url": "http://www.surfandsunshine.com",
+                  "display_url": "surfandsunshine.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/oeVOnk2oUI",
+                  "expanded_url": "http://Examiner.com",
+                  "display_url": "Examiner.com",
+                  "indices": [
+                    67,
+                    89
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 53972,
+          "friends_count": 39367,
+          "listed_count": 808,
+          "created_at": "Mon Jan 09 10:37:26 +0000 2012",
+          "favourites_count": 676,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 32683,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "92DBE0",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/459161511/1413158530",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 73,
+        "favorite_count": 16,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "UniversalOrlando",
+              "indices": [
+                22,
+                39
+              ]
+            },
+            {
+              "text": "familytravel",
+              "indices": [
+                66,
+                79
+              ]
+            },
+            {
+              "text": "ttot",
+              "indices": [
+                80,
+                85
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "universal_orl",
+              "name": "universal studios",
+              "id": 1885126897,
+              "id_str": "1885126897",
+              "indices": [
+                51,
+                65
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/GSwcfx4U1w",
+              "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+              "display_url": "surfandsunshine.com/pro-tips-for-u…",
+              "indices": [
+                86,
+                108
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 585172144327303200,
+              "id_str": "585172144327303168",
+              "indices": [
+                109,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "url": "http://t.co/yFgzUINctn",
+              "display_url": "pic.twitter.com/yFgzUINctn",
+              "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 254,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 449,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 562,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 73,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UniversalOrlando",
+            "indices": [
+              41,
+              58
+            ]
+          },
+          {
+            "text": "familytravel",
+            "indices": [
+              85,
+              98
+            ]
+          },
+          {
+            "text": "ttot",
+            "indices": [
+              99,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SurfnSunshine",
+            "name": "Jeana",
+            "id": 459161511,
+            "id_str": "459161511",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "universal_orl",
+            "name": "universal studios",
+            "id": 1885126897,
+            "id_str": "1885126897",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/GSwcfx4U1w",
+            "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+            "display_url": "surfandsunshine.com/pro-tips-for-u…",
+            "indices": [
+              105,
+              127
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 585172144327303200,
+            "id_str": "585172144327303168",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "url": "http://t.co/yFgzUINctn",
+            "display_url": "pic.twitter.com/yFgzUINctn",
+            "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 449,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 562,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 585172145120116700,
+            "source_status_id_str": "585172145120116736",
+            "source_user_id": 459161511,
+            "source_user_id_str": "459161511"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 13:24:43 +0000 2015",
+      "id": 585795407118118900,
+      "id_str": "585795407118118913",
+      "text": "RT @SurfnSunshine: Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 874537423,
+        "id_str": "874537423",
+        "name": "Garf ",
+        "screen_name": "g_kohls",
+        "location": "MN, USA",
+        "profile_location": null,
+        "description": "A baseball and football fan.  I like gardening, fishing and shopping.  I am my hubby's sweet angel :-).  Check out her shopping cart",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5130,
+        "friends_count": 1313,
+        "listed_count": 180,
+        "created_at": "Thu Oct 11 23:39:53 +0000 2012",
+        "favourites_count": 3076,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38742,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBDDE2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/491260763688812544/4KWAnI_V_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/491260763688812544/4KWAnI_V_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/874537423/1350002412",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Apr 06 20:08:06 +0000 2015",
+        "id": 585172145120116700,
+        "id_str": "585172145120116736",
+        "text": "Pro Tips For The BEST #UniversalOrlando Experience @universal_orl #familytravel #ttot http://t.co/GSwcfx4U1w http://t.co/yFgzUINctn",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 459161511,
+          "id_str": "459161511",
+          "name": "Jeana",
+          "screen_name": "SurfnSunshine",
+          "location": "Redondo Beach, CA ",
+          "profile_location": null,
+          "description": "#Travel Blogger. LA #FamilyTravel & International Travel writer at http://t.co/oeVOnk2oUI. Mom & #SocialGood advocate enjoys photography, food, cars & tech",
+          "url": "http://t.co/JozlQPa239",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JozlQPa239",
+                  "expanded_url": "http://www.surfandsunshine.com",
+                  "display_url": "surfandsunshine.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/oeVOnk2oUI",
+                  "expanded_url": "http://Examiner.com",
+                  "display_url": "Examiner.com",
+                  "indices": [
+                    67,
+                    89
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 53972,
+          "friends_count": 39367,
+          "listed_count": 808,
+          "created_at": "Mon Jan 09 10:37:26 +0000 2012",
+          "favourites_count": 676,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 32683,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "92DBE0",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568211490/k7iffqwjja2eu5t8ce9r.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2816230225/10ea3b7675234dc344d39d4fcd42edb8_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/459161511/1413158530",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 73,
+        "favorite_count": 16,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "UniversalOrlando",
+              "indices": [
+                22,
+                39
+              ]
+            },
+            {
+              "text": "familytravel",
+              "indices": [
+                66,
+                79
+              ]
+            },
+            {
+              "text": "ttot",
+              "indices": [
+                80,
+                85
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "universal_orl",
+              "name": "universal studios",
+              "id": 1885126897,
+              "id_str": "1885126897",
+              "indices": [
+                51,
+                65
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/GSwcfx4U1w",
+              "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+              "display_url": "surfandsunshine.com/pro-tips-for-u…",
+              "indices": [
+                86,
+                108
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 585172144327303200,
+              "id_str": "585172144327303168",
+              "indices": [
+                109,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+              "url": "http://t.co/yFgzUINctn",
+              "display_url": "pic.twitter.com/yFgzUINctn",
+              "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 254,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 449,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 562,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 73,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UniversalOrlando",
+            "indices": [
+              41,
+              58
+            ]
+          },
+          {
+            "text": "familytravel",
+            "indices": [
+              85,
+              98
+            ]
+          },
+          {
+            "text": "ttot",
+            "indices": [
+              99,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SurfnSunshine",
+            "name": "Jeana",
+            "id": 459161511,
+            "id_str": "459161511",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "universal_orl",
+            "name": "universal studios",
+            "id": 1885126897,
+            "id_str": "1885126897",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/GSwcfx4U1w",
+            "expanded_url": "http://www.surfandsunshine.com/pro-tips-for-universal-orlando-florida/",
+            "display_url": "surfandsunshine.com/pro-tips-for-u…",
+            "indices": [
+              105,
+              127
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 585172144327303200,
+            "id_str": "585172144327303168",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "media_url_https": "https://pbs.twimg.com/media/CB7y9wMVIAAeR48.png",
+            "url": "http://t.co/yFgzUINctn",
+            "display_url": "pic.twitter.com/yFgzUINctn",
+            "expanded_url": "http://twitter.com/SurfnSunshine/status/585172145120116736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 449,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 562,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 585172145120116700,
+            "source_status_id_str": "585172145120116736",
+            "source_user_id": 459161511,
+            "source_user_id_str": "459161511"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 13:13:34 +0000 2015",
+      "id": 585792602848399400,
+      "id_str": "585792602848399361",
+      "text": "@stonemily Welcome to #UniversalOrlando! Share your fav #UniversalMoments from your day with us!",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 585791958355959800,
+      "in_reply_to_status_id_str": "585791958355959808",
+      "in_reply_to_user_id": 21065740,
+      "in_reply_to_user_id_str": "21065740",
+      "in_reply_to_screen_name": "stonemily",
+      "user": {
+        "id": 125988399,
+        "id_str": "125988399",
+        "name": "Universal Orlando",
+        "screen_name": "UniversalORL",
+        "location": "Orlando, FL",
+        "profile_location": null,
+        "description": "OFFICIAL Twitter for Universal Orlando Resort. Share your #UniversalMoments",
+        "url": "http://t.co/P0yXbEaLnH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/P0yXbEaLnH",
+                "expanded_url": "http://www.universalorlando.com",
+                "display_url": "universalorlando.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 255694,
+        "friends_count": 991,
+        "listed_count": 1259,
+        "created_at": "Wed Mar 24 13:57:21 +0000 2010",
+        "favourites_count": 8761,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 13269,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563755179195891712/BilAZyzP.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563755179195891712/BilAZyzP.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577240145667076096/dS4pEmiE_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577240145667076096/dS4pEmiE_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125988399/1426459738",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UniversalOrlando",
+            "indices": [
+              22,
+              39
+            ]
+          },
+          {
+            "text": "UniversalMoments",
+            "indices": [
+              56,
+              73
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stonemily",
+            "name": "Emily",
+            "id": 21065740,
+            "id_str": "21065740",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 08 13:01:57 +0000 2015",
+      "id": 585789679850520600,
+      "id_str": "585789679850520576",
+      "text": "@LegallyAlexis Welcome to #UniversalOrlando! Have fun out there!",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 585780867672440800,
+      "in_reply_to_status_id_str": "585780867672440832",
+      "in_reply_to_user_id": 30823475,
+      "in_reply_to_user_id_str": "30823475",
+      "in_reply_to_screen_name": "LegallyAlexis",
+      "user": {
+        "id": 125988399,
+        "id_str": "125988399",
+        "name": "Universal Orlando",
+        "screen_name": "UniversalORL",
+        "location": "Orlando, FL",
+        "profile_location": null,
+        "description": "OFFICIAL Twitter for Universal Orlando Resort. Share your #UniversalMoments",
+        "url": "http://t.co/P0yXbEaLnH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/P0yXbEaLnH",
+                "expanded_url": "http://www.universalorlando.com",
+                "display_url": "universalorlando.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 255694,
+        "friends_count": 991,
+        "listed_count": 1259,
+        "created_at": "Wed Mar 24 13:57:21 +0000 2010",
+        "favourites_count": 8761,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 13269,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563755179195891712/BilAZyzP.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563755179195891712/BilAZyzP.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577240145667076096/dS4pEmiE_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577240145667076096/dS4pEmiE_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125988399/1426459738",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UniversalOrlando",
+            "indices": [
+              26,
+              43
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LegallyAlexis",
+            "name": "Alexis Echevarria",
+            "id": 30823475,
+            "id_str": "30823475",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
