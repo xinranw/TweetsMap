@@ -6,6 +6,7 @@ var request = require('request');
 var querystring = require('querystring');
 var _ = require('underscore');
 var Twitter = require('twitter');
+var twitterAuth = require('./twitter-auth.json');
 var MongoClient = require('mongodb').MongoClient;
 var socket;
 var db;
@@ -55,8 +56,8 @@ app.get('/tweets/all', function(req, res, next){
 })
 
 var TwitterClient = new Twitter({
-  consumer_key: '4uXm95hZd5JA9V0FjpabdAhmI',
-  consumer_secret: 'x4boo76XYO6Bt43cuUAHnNoHVxS5xdu9y3o84dBM5h1XXejFBq',
+  consumer_key: twitterAuth.consumer_key,
+  consumer_secret: twitterAuth.consumer_secret,
   access_token_key: '',
   access_token_secret: ''
 });
