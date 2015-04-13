@@ -94,7 +94,7 @@ function fetchTweets(){
             }
 
             console.dir("Inserted tweet " + tweet.id);
-            socket.emit('new', { tweet: tweet });
+            // socket.emit('new', { tweet: tweet });
           });
         });
       });
@@ -109,9 +109,10 @@ MongoClient.connect(function(err){
   tweets = db.collection('tweets');
 
   server.listen(9000);
-  io.on('connection',function(socket){
-    socket = socket;
+  io.on('connection',function(socketio){
+    console.dir('connection made');
+    socket = socketio;
   });
-  fetchTweets();
+  // fetchTweets();
   setInterval(fetchTweets, 300000);
 });
