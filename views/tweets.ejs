@@ -23,11 +23,11 @@
       font: 10px sans-serif;
     }
 
-    .tweets circle {
-      fill: brown;
+  /*  .tweets circle {
+      fill: red;
       stroke: black;
       stroke-width: 1.5px;
-    }
+    }*/
 
     #tooltip {
       -moz-transition: all 0.15s;
@@ -72,7 +72,7 @@
 </head>
 <body>
   <div id="tooltip" class="hidden">
-    <p><span id="tweet"></span></p>
+    <p id="tweet"></p>
   </div>
   <div id="map"></div>
   <script>
@@ -84,6 +84,17 @@
   <script type="text/javascript">
     var tweets = <%- JSON.stringify( tweets ); %>
     var tweetsDictionary = <%- JSON.stringify( tweetsDictionary ); %>
+    var mostTweetsCount = 0;
+    var secondMostTweetsCount = 0;
+    for (var key in tweetsDictionary){
+      console.dir(tweetsDictionary[key].length);
+      if (tweetsDictionary[key].length > mostTweetsCount){
+        secondMostTweetsCount = mostTweetsCount;
+        mostTweetsCount = tweetsDictionary[key].length;
+      } else if (tweetsDictionary[key].length > secondMostTweetsCount){
+        secondMostTweetsCount = tweetsDictionary[key].length;
+      }
+    }
 
     var map = new google.maps.Map(d3.select("#map").node(), {
       zoom: 4,
@@ -111,7 +122,7 @@
       padding = 10;
 
       var marker = layer.selectAll("svg")
-      .data(d3.entries(tweets))
+      .data(d3.entries(tweetsDictionary))
       .each(transform) // update existing markers
       .enter().append("svg:svg")
       .each(transform)
@@ -120,14 +131,15 @@
       // Add a circle.
       marker.append("svg:circle")
       .attr("r", function(d){
-        if (d.value.location){
-          return 5;
-        } else {
-          return 0;
-        }
+        return Math.sqrt(d.value.length*9);
       })
       .attr("cx", padding)
       .attr("cy", padding)
+      .style("fill", function(d){
+        return "rgba(255, 255, 0, 0.5)";
+      })
+      .style("stroke", "black")
+      .style("stroke-width", "1.5px")
       .on("mouseover", function(d) {   //Add tooltip on mouseover for each circle
         //Get this circle's x/y values, then augment for the tooltip
         var xPosition = d3.select(this).attr("cx");
@@ -139,7 +151,11 @@
         .style("top", (d3.event.pageY - 90) + "px")
         .style("width", '500px')
         .select("#tweet")  
-        .html(d.value.text);      
+        .html(d.value.map(function(tweet){
+          return tweet.text;
+        }).reduce(function(previousValue, currentValue){
+          return previousValue + "<br><br>" + currentValue;
+        }));
 
         //Show the tooltip
         d3.select("#tooltip").classed("hidden", false);
@@ -150,13 +166,12 @@
       });;
 
       function transform(d) {
-        if (d.value.location){
-          var coords = new google.maps.LatLng(d.value.location.coordinates[1], d.value.location.coordinates[0]);
-          coords = projection.fromLatLngToDivPixel(coords);
-          return d3.select(this)
-          .style("left", (coords.x - padding) + "px")
-          .style("top", (coords.y - padding) + "px");
-        }
+        var coordsArray = d.key.split(',');
+        var coords = new google.maps.LatLng(coordsArray[1], coordsArray[0]);
+        coords = projection.fromLatLngToDivPixel(coords);
+        return d3.select(this)
+        .style("left", (coords.x - padding) + "px")
+        .style("top", (coords.y - padding) + "px");
       }
     }
     // Bind our overlay to the map…
