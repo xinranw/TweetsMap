@@ -5,55 +5,17 @@ var io = require('socket.io')(server);
 var request = require('request');
 var querystring = require('querystring');
 var _ = require('underscore');
+var tweetsRoutes = require('./routes/tweets.js');
 var Twitter = require('twitter');
 var twitterAuth = require('./twitter-auth.json');
-var MongoClient = require('mongodb').MongoClient;
-var socket;
-var db;
-var tweets;
+var MongoClient = require('./mongo-client');
+var socket, db, tweets;
 
 app.use(express.static('public'));
 app.engine('ejs', require('ejs').renderFile);
 app.set('view engine', 'ejs');
 app.set('views', __dirname + '/views');
-
-app.get('/tweets/map', function (req, res, next) {
-  tweets.find().toArray(function(err, data){
-    if (err) throw err;
-
-    console.dir("Found " + data.length + " tweets");
-    var tweetsDictionary = {};
-    data.forEach(function(tweet){
-      if (tweet.location){
-        if (!tweetsDictionary[tweet.location.coordinates]) {
-          tweetsDictionary[tweet.location.coordinates] = [];
-        }
-        tweetsDictionary[tweet.location.coordinates].push(tweet);
-      }
-    });
-    res.render('tweets', { title: '#universalorlando', tweets: data, tweetsDictionary: tweetsDictionary});
-  });
-});
-
-app.get('/tweets/locations', function(req, res, next){
-  tweets.find({'location' : {'$exists' : true}}, {'location' : 1, '_id' : 0}).toArray(function(err, data){
-    if (err) throw err;
-
-    console.dir("Found " + data.length + " locations");
-
-    res.json(data);
-  });
-})
-
-app.get('/tweets/all', function(req, res, next){
-  tweets.find().toArray(function(err, data){
-    if (err) throw err;
-
-    console.dir("Found " + data.length + " tweets");
-
-    res.json(data);
-  });
-})
+app.use('/tweets', tweetsRoutes);
 
 var TwitterClient = new Twitter({
   consumer_key: twitterAuth.consumer_key,
@@ -61,7 +23,6 @@ var TwitterClient = new Twitter({
   access_token_key: '',
   access_token_secret: ''
 });
-var params = {screen_name: 'nodejs'};
 
 var HOST = "http://maps.googleapis.com";
 var PATH = "/maps/api/geocode/json?";
@@ -133,7 +94,7 @@ function fetchTweets(){
             }
 
             console.dir("Inserted tweet " + tweet.id);
-            // socket.emit('news', { hello: 'world' });
+            socket.emit('new', { tweet: tweet });
           });
         });
       });
@@ -141,15 +102,16 @@ function fetchTweets(){
   });
 }
 
-MongoClient.connect('mongodb://localhost:27017/twitter', function(err, db){
+MongoClient.connect(function(err){
   if (err) throw err;
 
-  db = db;
+  db = MongoClient.db();
   tweets = db.collection('tweets');
 
   server.listen(9000);
   io.on('connection',function(socket){
     socket = socket;
   });
+  fetchTweets();
   setInterval(fetchTweets, 300000);
 });

@@ -71,8 +71,8 @@
   <div id="map"></div>
   <script>
     var socket = io.connect('http://localhost:9000');
-    socket.on('news', function (data) {
-      console.log(data);
+    socket.on('new', function (data) {
+      console.dir(data);
     });
   </script>
   <script type="text/javascript">
@@ -81,7 +81,6 @@
     var mostTweetsCount = 0;
     var secondMostTweetsCount = 0;
     for (var key in tweetsDictionary){
-      console.dir(tweetsDictionary[key].length);
       if (tweetsDictionary[key].length > mostTweetsCount){
         secondMostTweetsCount = mostTweetsCount;
         mostTweetsCount = tweetsDictionary[key].length;
