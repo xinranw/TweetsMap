@@ -5,6 +5,7 @@ var io = require('socket.io')(server);
 var request = require('request');
 var querystring = require('querystring');
 var _ = require('underscore');
+var gju = require('geojson-utils')
 var Twitter = require('twitter');
 var MongoClient = require('mongodb').MongoClient;
 var socket;
@@ -12,12 +13,25 @@ var db;
 var tweets;
 
 app.use(express.static('public'));
-app.engine('html', require('ejs').renderFile);
-app.set('view engine', 'html');
+app.engine('ejs', require('ejs').renderFile);
+app.set('view engine', 'ejs');
 app.set('views', __dirname + '/views');
 
 app.get('/tweets/map', function (req, res, next) {
-  res.render('tweets', { title: 'Tweets of #universalorlando'});
+  tweets.find().toArray(function(err, data){
+    if (err) throw err;
+
+    console.dir("Found " + data.length + " tweets");
+    var tweetsDictionary = {};
+    for (tweet of data){
+      if (!tweet.location) continue;
+      if (!tweetsDictionary[tweet.location.coordinates]) {
+        tweetsDictionary[tweet.location.coordinates] = [];
+      }
+      tweetsDictionary[tweet.location.coordinates].push(tweet);
+    }
+    res.render('tweets', { title: '#universalorlando', tweets: data, tweetsDictionary: tweetsDictionary});
+  });
 });
 
 app.get('/tweets/locations', function(req, res, next){
@@ -77,7 +91,12 @@ var getCoords = function(city, callback){
     var location = null;
     if (body.results && body.results.length > 0){
       location = body.results[0].geometry.location; 
+      location = {
+        type:'Point',
+        coordinates: [location.lng, location.lat]
+      }
     } 
+    console.dir(location);
     callback(null, location);
   });
 }
@@ -106,17 +125,16 @@ function fetchTweets(){
 
           console.dir("inserting " + tweet.id + " with location " + tweet.location);
 
-          // tweets.insert(tweet ,function(err, inserted){
-            tweets.update({'id':tweet.id}, tweet, {'upsert':true}, function(err, inserted){
-              if (err) {
-                console.dir(err);
-                throw err;
-              }
+          tweets.update({'id':tweet.id}, tweet, {'upsert':true}, function(err, inserted){
+            if (err) {
+              console.dir(err);
+              throw err;
+            }
 
-              console.dir("Inserted tweet " + tweet.id);
-              // socket.emit('news', { hello: 'world' });
-            });
+            console.dir("Inserted tweet " + tweet.id);
+            // socket.emit('news', { hello: 'world' });
           });
+        });
       });
     });
   });
@@ -132,6 +150,5 @@ MongoClient.connect('mongodb://localhost:27017/twitter', function(err, db){
   io.on('connection',function(socket){
     socket = socket;
   });
-  fetchTweets();
   setInterval(fetchTweets, 300000);
 });

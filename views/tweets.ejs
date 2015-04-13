@@ -1,0 +1,168 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+  <title><%= title %></title>
+  <style type="text/css">
+
+    html, body, #map {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    .tweets, .tweets svg {
+      position: absolute;
+    }
+
+    .tweets svg {
+      width: 60px;
+      height: 20px;
+      padding-right: 100px;
+      font: 10px sans-serif;
+    }
+
+    .tweets circle {
+      fill: brown;
+      stroke: black;
+      stroke-width: 1.5px;
+    }
+
+    #tooltip {
+      -moz-transition: all 0.15s;
+      -o-transition: all 0.15s;
+      -webkit-transition: all 0.15s;
+      transition: all 0.15s;
+      opacity: 0.90;
+      position: absolute;
+      min-width: 60px;
+      height: auto;
+      padding: 10px;
+      background-color: white;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+      -moz-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+      box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+      pointer-events: none;
+      z-index: 1000;
+    }
+
+    #tooltip.hidden {
+      display: none;
+    }
+
+    #tooltip p {
+      margin: 0;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 20px;
+    }   
+
+  </style>
+  <!-- <script src="./d3.v3.min.js"></script> -->
+  <!-- <script src="./maps.min.js"></script> -->
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <!-- <script src="http://d3js.org/topojson.v0.min.js"></script> -->
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+</head>
+<body>
+  <div id="tooltip" class="hidden">
+    <p><span id="tweet"></span></p>
+  </div>
+  <div id="map"></div>
+  <script>
+    var socket = io.connect('http://localhost:9000');
+    socket.on('news', function (data) {
+      console.log(data);
+    });
+  </script>
+  <script type="text/javascript">
+    var tweets = <%- JSON.stringify( tweets ); %>
+    var tweetsDictionary = <%- JSON.stringify( tweetsDictionary ); %>
+
+    var map = new google.maps.Map(d3.select("#map").node(), {
+      zoom: 4,
+      center: new google.maps.LatLng(38, -102),
+      mapTypeId: google.maps.MapTypeId.TERRAIN
+    });
+
+    // var projection = d3.geo.albersUsa();
+    var projection = d3.geo.mercator();
+
+    var overlay = new google.maps.OverlayView();
+    var layer;
+
+    // Add the container when the overlay is added to the map.
+    overlay.onAdd = function() {
+      layer = d3.select(this.getPanes().overlayMouseTarget)
+      .append("div")
+      .attr("class", "tweets");
+    }
+
+    // Draw each marker as a separate SVG element.
+    // We could use a single SVG, but what size would it have?
+    overlay.draw = function() {
+      var projection = this.getProjection(),
+      padding = 10;
+
+      var marker = layer.selectAll("svg")
+      .data(d3.entries(tweets))
+      .each(transform) // update existing markers
+      .enter().append("svg:svg")
+      .each(transform)
+      .attr("class", "marker");
+
+      // Add a circle.
+      marker.append("svg:circle")
+      .attr("r", function(d){
+        console.dir(d);
+        if (d.value.location){
+          return 5;
+        } else {
+          return 0;
+        }
+      })
+      .attr("cx", padding)
+      .attr("cy", padding)
+      .on("mouseover", function(d) {   //Add tooltip on mouseover for each circle
+        //Get this circle's x/y values, then augment for the tooltip
+        var xPosition = d3.select(this).attr("cx");
+        var yPosition = d3.select(this).attr("cy");
+        //Update the tooltip position and value
+        d3.select("#tooltip")
+        //Show the tooltip above where the mouse triggers the event
+        .style("left", (d3.event.pageX) + "px")     
+        .style("top", (d3.event.pageY - 90) + "px")
+        .style("width", '500px')
+        .select("#tweet")  
+        .html(d.value.text);      
+
+        //Show the tooltip
+        d3.select("#tooltip").classed("hidden", false);
+      })
+      .on("mouseout", function() {
+        //Hide the tooltip
+        d3.select("#tooltip").classed("hidden", true);
+      });;
+
+      function transform(d) {
+        console.log(d.value.location);
+        if (d.value.location){
+          var coords = new google.maps.LatLng(d.value.location.coordinates[1], d.value.location.coordinates[0]);
+          coords = projection.fromLatLngToDivPixel(coords);
+          return d3.select(this)
+          .style("left", (coords.x - padding) + "px")
+          .style("top", (coords.y - padding) + "px");
+        }
+      }
+    }
+    // Bind our overlay to the map…
+    overlay.setMap(map);
+  </script>
+</body>
+</html>
