@@ -5,7 +5,6 @@ var io = require('socket.io')(server);
 var request = require('request');
 var querystring = require('querystring');
 var _ = require('underscore');
-var gju = require('geojson-utils')
 var Twitter = require('twitter');
 var MongoClient = require('mongodb').MongoClient;
 var socket;
@@ -23,13 +22,14 @@ app.get('/tweets/map', function (req, res, next) {
 
     console.dir("Found " + data.length + " tweets");
     var tweetsDictionary = {};
-    for (tweet of data){
-      if (!tweet.location) continue;
-      if (!tweetsDictionary[tweet.location.coordinates]) {
-        tweetsDictionary[tweet.location.coordinates] = [];
+    data.forEach(function(tweet){
+      if (tweet.location){
+        if (!tweetsDictionary[tweet.location.coordinates]) {
+          tweetsDictionary[tweet.location.coordinates] = [];
+        }
+        tweetsDictionary[tweet.location.coordinates].push(tweet);
       }
-      tweetsDictionary[tweet.location.coordinates].push(tweet);
-    }
+    });
     res.render('tweets', { title: '#universalorlando', tweets: data, tweetsDictionary: tweetsDictionary});
   });
 });
@@ -112,7 +112,7 @@ function fetchTweets(){
     data.statuses.forEach(function(tweet){
       tweets.findOne({'id' : tweet.id}, function(err, doc){
         if (err) throw err;
-        
+
         if (doc){
           console.dir("Old tweet " + tweet.id);
           return;
