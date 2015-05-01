@@ -18,7 +18,7 @@ router
         tweetsDictionary[tweet.location.coordinates].push(tweet);
       }
     });
-    res.render('tweets', { title: '#universalorlando', tweets: data, tweetsDictionary: tweetsDictionary});
+    res.render('tweetsMap', { title: '#universalorlando', tweets: data, tweetsDictionary: tweetsDictionary});
   });
 })
 
@@ -49,8 +49,27 @@ router
     contributor_details : true
   };
   TwitterClient.get('statuses/user_timeline', params, function(err, tweets){
-    if (err) throw err;
-    res.json(tweets);
+    if (err){
+      console.dir(err);
+      return;
+    }
+    res.format({
+      'text/html': function(){
+        res.render('userTweets', {tweets : tweets});
+      },
+
+      'application/json': function(){
+        res.json(tweets);
+      }
+    });
+  });
+})
+
+.get('/telemundo', function(req, res, next){
+  res.format({
+    'text/html':function(){
+      res.render('userTweets');
+    }
   });
 });
 
