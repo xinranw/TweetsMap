@@ -7,7 +7,7 @@ var querystring = require('querystring');
 var _ = require('underscore');
 var tweetsRoutes = require('./routes/tweets.js');
 var Twitter = require('twitter');
-var twitterAuth = require('./twitter-auth.json');
+var TwitterClient = require('./twitter-client.js').TwitterClient();
 var MongoClient = require('./mongo-client');
 var socket, db, tweets;
 
@@ -16,13 +16,6 @@ app.engine('ejs', require('ejs').renderFile);
 app.set('view engine', 'ejs');
 app.set('views', __dirname + '/views');
 app.use('/tweets', tweetsRoutes);
-
-var TwitterClient = new Twitter({
-  consumer_key: twitterAuth.consumer_key,
-  consumer_secret: twitterAuth.consumer_secret,
-  access_token_key: '',
-  access_token_secret: ''
-});
 
 var HOST = "http://maps.googleapis.com";
 var PATH = "/maps/api/geocode/json?";
@@ -56,12 +49,12 @@ var getCoords = function(city, callback){
       location = {
         type:'Point',
         coordinates: [location.lng, location.lat]
-      }
+      };
     } 
     console.dir(location);
     callback(null, location);
   });
-}
+};
 
 function fetchTweets(){
   TwitterClient.get('search/tweets', {q: '#universalorlando'}, function(err, data, response){
